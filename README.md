@@ -38,7 +38,7 @@
 <a href="https://fb.com/100021631055669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100021631055669" height="30" width="40" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/22385610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22385610" height="30" width="40" /></a>
-<a href="https://ko-fi.com/JA"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="JA" /></a>
+<a href="https://ko-fi.com/aj024"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="JA" /></a>
 </p>
 
 
